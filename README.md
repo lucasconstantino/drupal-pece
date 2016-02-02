@@ -1,5 +1,7 @@
 # Drupal Boot (druboot)
 
+[![Join the chat at https://gitter.im/lucasconstantino/drupal-pece](https://badges.gitter.im/lucasconstantino/drupal-pece.svg)](https://gitter.im/lucasconstantino/drupal-pece?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Search and replace:
 
 ```***CHANGE.THIS.IP.ADDR***```
